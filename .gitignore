@@ -1,0 +1,14 @@
+ws
+*Db.properties
+*Db.script
+.settings
+.classpath
+.project
+eclipse
+stacktrace.log
+target
+/plugins
+/webapp/plugins
+/webapp/WEB-INF/classes
+webapp/WEB-INF/tld/c.tld
+webapp/WEB-INF/tld/fmt.tld
